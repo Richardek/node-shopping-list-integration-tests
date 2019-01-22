@@ -1,9 +1,3 @@
 language: node_js
 node_js: node
-deploy:
-  provider: heroku
-  api_key:
-    secure: lloQSg0tAFbdtRcHJozipkfKwXCqr2nHvlOdAs4n02m9v3ALyQwpN0z8Ep6o/llMJ20oIzK/bAeLzlTwAUCXyTC5cNY6ugbwUAS+WZdbJy/sERrWEPH3Xk8zQffeqrGXxXRLeLi27aphGd2WYPVPC54+EpHVCpHlKEFPUC4QIwhJnvlBcoS5SpmahkO/JHP/VGkIttEPkyihF8puNn73fwFtprdf1gCUCQ2XPq3/tBf+I2TX9VL0PpVLQ+4rglibyRi5RQBtiPmHeT0qlDCHK9qQUgWZfkre0iWFht6/ki6SgYhL38BlI7LM+0LFrenpK9IZhgsMN2EA90Cck4lSmgAvvkIaChL4h8MB0WyEhzV3wQsT6zJy6cwZKGqCKuxXOc/f9PiYLCFXd8j6C6HMVy7PghdslAI+rur7XZ1ayTHdXbC78zwlIl8Kh56lqZx/hJ64r5jN+CsO530b1EgZHISXZsGDBv61BDiNbXkfXPIfFduLW/eFmWrTwj83SPlXtPb4311rk1PsTsJF/0n2nABoyx4e7QEbaD3vZ2UuMtGvlaLmYFfmFh0tbLt5d631CioYdAVDQ9tNKsosLaTwq2Rw1OsWsPhA+ZI2KpXiAXT6M1p+1UiLdMpC9n6fHtwGr/YjJvv51xNDmNS5A5HBJ8bczOJyLju0isDFINr0Tu8=
-  app: warm-inlet-96023
-  on:
-    repo: Richardek/node-shopping-list-integration-tests
+
